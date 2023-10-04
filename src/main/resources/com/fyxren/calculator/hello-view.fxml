@@ -20,4 +20,5 @@
       <TextField fx:id="input1" />
       <TextField fx:id="input2" GridPane.rowIndex="1" />
       <Button mnemonicParsing="false" onAction="#onAdd" prefHeight="26.0" prefWidth="106.0" text="+" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+   <Button mnemonicParsing="false" onAction="#onSubtract" prefHeight="26.0" prefWidth="106.0" text="-" GridPane.columnIndex="1" />
 </GridPane>
